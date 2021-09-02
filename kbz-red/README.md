@@ -14,8 +14,17 @@ Running for a few weeks at small work esitmates is the clue that you are about t
 The primary benefit of a RED team is you can start development without to much process overhead and introduce more 
 process if it becomes required.
 
+# Technical Owner
+
 An interesting feature of RED is the inclusion of a Technical Owner, whose purpose is keep the quality output of the 
 delivery team high by helping the business owner and product owner write relevant value proposals.
+
+A technical owner can give 2 different types of advice.  Opinion and considered opinon.  Considered opinion is a best 
+guess based heavily on past experience and is formal advice given to the team.  Opinion is not formal advice.  
+
+A technical owner does not give expert advice or any advice on Artifical Intellegence except where they have explicitly
+stated that they are an "expert in a niche" or have explicitly stated they enough experience in the articifial 
+intelligence domain to give a considered opinion.
 
 # SETTINGS
 
