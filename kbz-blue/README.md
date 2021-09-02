@@ -1,27 +1,25 @@
-# Kanban-Zai Extension "BLUE"
+# Kanban-Zai Extension "Blue"
 
-bAU team
+Kanban-Zai BLUE is a B.A.U delivery process.
 
-# quality-rom
+BLUE is the companion to RED.  The difference being that BLUE operates within the contextual boundaries of the product
+that RED created.
 
-blueshift:
+BLUE is not a process that allows the same type of flexibily as RED, but it does offer the same low process overhead.
 
-Value: BUG, SPIKE, M, S, XS
+If large cards start appearing regularly that is a signal that a RED team may need to be spun up for a subsequent
+phase of product development.
 
-redshift:
-
-Value: BUG, SPIKE, M, S, XS
+An interesting feature of BLUE is the inclusion of a Technical Owner, whose purpose is keep the quality output of the 
+delivery team high by helping the business owner and product owner write relevant value proposals.
 
 # SETTINGS
 
-### cadence
+### CADENCE
 
-1 working week
+Use cadence as your projects TICK.  Aggree as a team to change directions or prioritize work only on a tick.
 
-# NORMS
+### Card sizing
 
-
-# VALUES
-
-## Consistency
+S, M, L
 

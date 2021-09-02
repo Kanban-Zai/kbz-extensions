@@ -1,33 +1,9 @@
 Kanban-Zai:
   name: red
   version: 1
-  context: redshifted, blueshifted
   url: https://github.com/Kanban-Zai/kbz-red.git
   extends: https://github.com/Kanban-Zai/kanban-zai-core.git
-  hints:
-    - blueshift
-    - redshift
-    - customer-value
-  redshifted:
-    settings:
-      cadence: 1 working week
-    claims:
-      - quality
-      - test
-    method:
-      - suggestion
-      - market-fit
-      - technical-fit
-      - business-fit
-      - ready
-      - wip
-      - accepted
-      - completed
-
-  blueshifted:
-    settings:
-      cadence: 1 working week
-    claims:
-      - quality
-      - test
-    method:
+  settings:
+    cadence: 1 week
+  norms:
+    - failfast

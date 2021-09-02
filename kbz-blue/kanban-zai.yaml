@@ -1,19 +1,10 @@
 Kanban-Zai:
-  name: red
+  name: blue
   version: 1
-  url: https://github.com/Kanban-Zai/kbz-red.git
+  url: https://github.com/Kanban-Zai/kbz-blue.git
   extends: https://github.com/Kanban-Zai/kanban-zai-core.git
-  implements:
-    - https://github.com/Kanban-Zai/kbz-continuity-m.git
-    - https://github.com/Kanban-Zai/kbz-triumvirate-m.git
-    - https://github.com/Kanban-Zai/kbz-blueteam-m.git
   settings:
-    blueshift: 4 weeks
-    card-sizing: BUG, SPIKE, XL, L, M, S, XS|DEFAULT:XL
+    cadence: 1 week
+    card-sizing: S, M, L
   values:
     - consistiency
-  claims:
-  hints:
-    - blueshift
-    - redshift
-    - customer-value
