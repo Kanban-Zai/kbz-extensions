@@ -1,14 +1,26 @@
 # Kanban-Zai Extension "Blue"
 
-Kanban-Zai BLUE is a B.A.U delivery process.
+Kanban-Zai BLUE is a Business As Usual delivery process.
 
-BLUE is the companion to RED.  The difference being that BLUE operates within the contextual boundaries of the product
-that RED created.
+The purpose of the blue process is to solve the problem that the red process presents to it, that being transitioning the project into B.A.U mode.
 
-BLUE is not a process that allows the same type of flexibily as RED, but it does offer the same low process overhead.
+To run a B.A.U. team you. require a process that can provide absolute trust to all parties.  How is this trust created?  There are some test cases that help explain how this form of trust works by keeping the trust equation at the forefront of our minds.
 
-If large cards start appearing regularly that is a signal that a RED team may need to be spun up for a subsequent
-phase of product development.
+Test Case:  In this first situation, as a developer in a vacuum, there is no way of gauging self orientation soI must rely soley on the left hand side of the equation Vibability + Credibility + Reliability.  In other words who wrote the card and how well it is written.
+
+In this scenario the process must control and reduce the self orientation side of the equation.
+
+1. I am allow to pick the card up, and no-one will ever question me to the contrary.
+2. If commence work on the card, it has value, is relevant, is current and is actually wanted.
+4. If I finish work on the card then no one will question me on the result as long as if satisfies the explicit information provided on the card.
+5. I must be free to reject the card if it doesnt satisfy minimum infomation criteria.
+
+This means the delivery cycle must be behind the development cycle to a varying degree to allow a time cushion, because things go wrong.
+
+Test Case 2: In group situation team norms help guide the behavior of the team
+
+test case 3: an advanced delivery projection
+
 
 # Technical Owner
 
