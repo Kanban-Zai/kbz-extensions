@@ -4,16 +4,20 @@ Kanban-Zai BLUE is a Business As Usual delivery process.
 
 The purpose of the blue process is to solve the problem that the red process presents to it, that being transitioning the project into B.A.U mode.
 
-To run a B.A.U. team you. require a process that can provide absolute trust to all parties.  How is this trust created?  There are some test cases that help explain how this form of trust works by keeping the trust equation at the forefront of our minds.
+To run a B.A.U. team you. require a process that can provide absolute trust to all parties.  How is this trust created?  
 
-Test Case:  In this first situation, as a developer in a vacuum, there is no way of gauging self orientation soI must rely soley on the left hand side of the equation Vibability + Credibility + Reliability.  In other words who wrote the card and how well it is written.
+1. I am allow to pick the card up, and there will never be a negative outcome because I picked up the card.
+2. If commence work on the card, it should have the contextual boundries described on it so I am free to explore the solution.
+4. If I finish work on the card then no one will question me on the result as long as it satisfies a Rational Outcome Model.
+5. I must be free to reject the card if it doesnt satisfy a satisfies a Rational Outcome Model.
+
+
+There are 2 test scenarios that help explain how this form of trust works by keeping the trust equation at the forefront of our minds.
+
+In the first situation, as a developer in a vacuum, there is no way of gauging the self orientation of the author so I must rely soley on the left hand side of the equation Vibability + Credibility + Reliability.  In other words who wrote the card and how well it is written.
 
 In this scenario the process must control and reduce the self orientation side of the equation.
 
-1. I am allow to pick the card up, and no-one will ever question me to the contrary.
-2. If commence work on the card, it has value, is relevant, is current and is actually wanted.
-4. If I finish work on the card then no one will question me on the result as long as if satisfies the explicit information provided on the card.
-5. I must be free to reject the card if it doesnt satisfy minimum infomation criteria.
 
 This means the delivery cycle must be behind the development cycle to a varying degree to allow a time cushion, because things go wrong.
 
