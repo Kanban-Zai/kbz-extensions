@@ -1,6 +1,12 @@
 # Kanban-Zai Extension "Red"
 
-Kanban-Zai RED is a delivery process that has been battle hardened in the trenches to provide over time
+Kanban-Zai RED is a delivery process that optimises for delivery speed.
+
+It achieves this by managing a Technical Debt backlog rather than a product backlog.
+
+Technical debt is identified and ordered constantly in a queue.  The top of the queue is worked on at a rate defined by the speed limit and new work is considered at a rate defined by the teams cadence and speed limit.
+
+A useful property of this strategy is that technical debt can be amortized.  That is to say things with high uncertainy can be pushed to the bottom of the queue until such time as there is more certainty around them OR they become redundant and drop of the queue completly.
 
 It is best used in the situation where there is the potential of changing landscape of technology and requirements 
 where there maybe unknowns and worse, unknown unknowns.
@@ -9,7 +15,7 @@ It can be imagined as a funnel.  The wide end of the funnel represents the begin
 of setup and investigation to be done and the work estimates are always large.  Whilst the narrow end can be thought 
 of as feature complete or ready for a B.A.U team to take over, and work esitmates are always small.
 
-Running for a few weeks at small work esitmates is the clue that you are about to move to B.A.U.
+Running for a few weeks at small work esitmates is the clue that you are about to move to B.A.U, with the caveat that some technical debt may not be amortized as expected, in which case some large chunks of work may start to appear and be tackled by the team.
 
 The primary benefit of a RED team is you can start development without to much process overhead and introduce more 
 process if it becomes required.
