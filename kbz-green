@@ -1,0 +1,20 @@
+Greeen Team
+
+A green team is used to reduce the noise on blue teams.
+
+A typical use case is where  a client has an expectation of speedy dev delivery and it is an abhorent thought to have an empty delivery backlog at any time.
+
+A green team consists of a 4 column board with the columns, hold, feasibility, plausability, backlog.
+
+the hold is a generic catch all for cards that are to be considered for the feasibility queue
+the feasibility col has a Definition of Entry required to be fufilled before ideas becaome ready to be checked for feasibility.
+the plausability col has a definition of ready before it is passed to the backlog queue
+the backlog queue has a definition of done which must be fufilled before a card is ready to be passed to the blue ( dev ) team.
+if a card in the backlog cannot be completed due to incomplete information or faulty assumptions it must be placed on the top of the hold queue, thereby being ext inline for feasibility.
+
+
+settings
+
+cadence:  cards may only  be pushed to the backlog at a minimim time period defined by cadence
+speed-limit: only this many cards in the backlog can be worked on at any one time.
+prime-limit: only this many card can be on the feasibility queue at any one time.
