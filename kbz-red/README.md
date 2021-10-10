@@ -36,9 +36,17 @@ intelligence domain to give a considered opinion.
 
 ### CADENCE
 
-Use cadence as your projects TICK.  Aggree as a team to change directions or prioritize work only on a tick.
+Use cadence as your projects TICK.  Aggree as a team to change directions or prioritize or add work only on a tick.
+
+### DELIVERY QUEUE
+
+A list of all work sorted by weight ASCENDING.
 
 # NORMS
+
+### WEIGHTING
+
+Team members must continually weight cards.  The higher the number the more weight they have therefore lower weight cards are done first.
 
 ### FAILFAST
 
