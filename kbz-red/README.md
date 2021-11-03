@@ -1,15 +1,20 @@
 # Kanban-Zai Extension "Red"
 
-Kanban-Zai RED is a delivery process that optimises for delivery speed.
+Kanban-Zai RED is a delivery process that optimises for speed to market, with minmal upfront planning.
 
-It achieves this by managing a Technical Debt backlog rather than a product backlog.
+This is achieved through a variety of strategies.
 
-Technical debt is identified and ordered constantly in a queue.  The top of the queue is worked on at a rate defined by the speed limit and new work is considered at a rate defined by the teams cadence and speed limit.
+- Technical Deferal.  The process of pushing Technical Debt until after go-live OR immediatley offloading it to a B.A.U Team.
+- Technical Restarts.  The process of scraping everything and starting again.  This is an advantage allowed by minimalistic upfront planning, but be careful as it is also encouraged by the lack of upfront requirements ( It's a balancing act )
+- Technical Decay.  Technical debt is recorded and amortized (not done) it the nope that it will not be required.  That is to say things with high uncertainy can     be pushed to the bottom of the queue until such time as there is more certainty around them OR they become redundant and drop of the queue completly.
 
-A useful property of this strategy is that technical debt can be amortized.  That is to say things with high uncertainy can be pushed to the bottom of the queue until such time as there is more certainty around them OR they become redundant and drop of the queue completly.
 
-It is best used in the situation where there is the potential of changing landscape of technology and requirements 
-where there maybe unknowns and worse, unknown unknowns.
+These strategies are used because a Red team operates in changing landscape of technology and requirements where there maybe unknowns and worse, unknown unknowns.
+
+# Whats required
+
+The client needs an end to end vision of their system and must be able to answer key question, to even allow a red team to start.
+
 
 It can be imagined as a funnel.  The wide end of the funnel represents the beginning of a project, where there is a lot
 of setup and investigation to be done and the work estimates are always large.  Whilst the narrow end can be thought 
